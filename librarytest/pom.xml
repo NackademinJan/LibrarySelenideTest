@@ -11,4 +11,5 @@
     <module>librarytest-rest</module>
     <module>librarytest-gui</module>
   </modules>
+    <name>librarytestSelenium</name>
 </project>
